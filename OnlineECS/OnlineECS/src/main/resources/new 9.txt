@@ -1,0 +1,30 @@
+{
+  "orderNumber": "PO-1",
+  "customer": "Meet Rakholiya",
+  "products": [
+    {
+      "name": "Plastic Bag",
+      "quantity": 50,
+      "vendors": [
+        {
+          "name": "Hardik p1"
+        },
+        {
+          "name": "Haresh p2"
+        }
+      ]
+    },
+    {
+      "name": "Garbage Bag",
+      "quantity": 151,
+      "vendors": [
+        {
+          "name": "Jaggo v1"
+        },
+        {
+          "name": "Raju v2"
+        }
+      ]
+    }
+  ]
+}
